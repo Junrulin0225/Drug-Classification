@@ -18,4 +18,4 @@ I want to see with data cleaning, EDA and different models, hwo accuarte it is t
 
 
 #### Dataset used click here 👉
-[[https://www.kaggle.com/datasets/hijest/genre-classification-dataset-imdb](https://www.kaggle.com/datasets/shivamb/netflix-shows)https://www.kaggle.com/datasets/shivamb/netflix-shows](https://www.kaggle.com/datasets/prathamtripathi/drug-classification)https://www.kaggle.com/datasets/prathamtripathi/drug-classification
+https://www.kaggle.com/datasets/prathamtripathi/drug-classification
